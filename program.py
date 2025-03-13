@@ -8,6 +8,6 @@ def hello_world():
 
 @app.route("/national_slave_farm")
 def national_slave_farm():
-    return "<p>pls master leave me alone. GET BACK TO WORK MONKEY</p>"
+    return "<h1>pls master leave me alone. GET BACK TO WORK MONKEY</h1>"
 
 
